@@ -12,7 +12,7 @@ vga-controller-vhdl/
 ├── VGA.vhd      # VHDL source code for VGA signal generation
 ├── VGA.xdc      # Xilinx Design Constraints file (pin mapping)
 └── VGA.bit      # Compiled FPGA bitstream
-
+```
 ---
 
 ## Overview
